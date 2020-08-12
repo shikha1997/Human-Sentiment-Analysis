@@ -1,0 +1,2 @@
+# Human-Sentiment-Analysis
+The goal of this project is to show how sentimental analysis can help improve the user experience over a social network. It helps to calculate the sentiments like happy, sad, positive, negative etc. of users on social media like Twitter and also detect sarcasm in tweets.This will help us in Opinion Mining and will also help to develop an unfriend recommendation option in future.
